@@ -1,7 +1,7 @@
 Kinds of changes:
- 1. Lexical
+ 1. Lexical - loss of/change in lexical items 
  	Eg: bewrayeth --> gives you away
- 2. Grammatical
+ 2. Grammatical: Syntax, subject-verb agreement, etc
  	Eg: Came unto him they --> They came to him
  3. Sound
  4. Borrowing
@@ -15,7 +15,7 @@ Sound Changes:
 	Regular or Sporadic
 	 - Regularity Principle or Neogrammarian hypothesis: Sound laws suffer no exceptions
 	 - sporadic: spraec --> speech as an example; the removal of r is not consistent
-	Condition Based
+	Condition Based vs Unconditional (IMPORTANT: can be applied to all sound changes)
 	Phonemic and non Phonemic
 
  	Non Phonemic Changes:
@@ -23,21 +23,24 @@ Sound Changes:
 	 - Non Phonemic Conditioned
 
 	Phonemic Changes:
-	 - Merger
+	 - Merger (a,b --> b or a,b-->c)
 	 	Eg: Latin American Spanish (/lj/ to /j/)
 		    Sanskrit-Latin-PIE (/o/, /e/, /a/ --> /a/)
 		
 		Merger is irreversible. Merger may be lost.
 
-	 - Split
+	 - Split (a --> b,c)
 	 	Eg: Historical derivation of mouse, mice, foot, feet FROM mu:s, mu:s-i, fo:t, fo:t-i
 
-	 - Unconditioned
-		Eg: Spanish /lj/ --> /j/ universally in case of latin american spanish
-	 - Conditioned
+	 -- Unconditioned
+		MERGER: Eg: Spanish /lj/,/j/ --> /j/ universally in case of latin american spanish
+		SPLIT: not given
+	 -- Conditioned
 	 	Eg: Spanish /p/ --> /b/ in V_V case
+		MERGER:
+		SPLIT:
 
-	General Changes:
+	General Sound Changes:
 	 - Assimilation:
 		Sounds in Relative proximity modify each other.
 		Progressive: sound modified follows modifier
@@ -62,34 +65,324 @@ Sound Changes:
 		 - 
 
 	 - Dissimilation
+	 	The opposite of assimilation - sounds become less similar to one another.
+		
+		: Assimilation is more common than dissimilation
+		: Assimilation is usually general and regular, but can be sporadic
+		  Dissimilation is usually sporadic, but can be regular
+		: Dissimilation usually happens at a distance, though contact diss not uncommon
 
+		Eg: English: chimney --> chim(b)ley
+		    
+		    Instances of multiple occurences of r in a word are sporadically dissimilated
+		    in Romance languages
+
+		    Grassman's law - famous case of regular dissimilation in Greek and Sanskrit 
+		    where in roots with 2 aspirated stops, the first dissimilated to an 
+		    unanspirated stop
+
+		    .
+		    .
+		    .
+
+		    Dahl's Law in Bantu
 
 	Kinds of Common Changes:
 	 - Deletions:
-		Syncope
-		Apocope
-		Apheresis
-	 
-	 - Epenthesis (Insertions):
-		Prothesis
-		Anaptyctic
-		Excrescence
-		Paragoge
+		Syncope (atata --> atta) 
+		- neither initial nor final
+		- normally for loss of vowels
 
-	 - Compulsory Lengthening:
+		Apocope (tata --> tat)
+		- At end
+		- usually vowels
+
+		Apheresis (atata --> tata)
+	 	- At beginning
+		- usually vowel
+		- can be regular or sporadic
+		- rarely used, people sat initial vowel loss
+
+	 - Epenthesis (Insertions): (asta --> asata)
+		Prothesis (tata --> atata)
+		- At beginning 
+		
+		Anaptyctic (VCCV --> VCVCV)
+		- extra vowel added between two consonants
+
+		Excrescence (amra --> ambra, anra --> andra, ansa --> antsa)
+		- Consonant being inserted between other consonants
+		- Usually results in phonetic sequences which are easier to pronounce than the
+		  original clusters would be
+		
+		Paragoge (tat --> tata)
+		- At end of word
+		- Usually vowel
+
+	 - Compulsory Lengthening: (tast --> ta:t)
+	 	Something is lost and another segment, usually vowel, is lengthened
+
+	 - Rhotacism (VsV --> VrV)
+	 	Change of s/z --> r
+
+		Usually between vowels or glides
+
+		Some assume change is in form s --> z --> r
+
+	 - Metathesis (asta --> atsa, asata --> atasa)
+	 	Transposition of sounds
+
+		Mostly sporadic
+
+	 - Haplology (tatasa --> tasa)
+	 	repeated sequence of sounds reduced to single
+
+	 - Breaking
+	 	Diphtongisation of short vowel in particular contexts
+
+	 - Other changes:
+	 	Final devoicing
+		- Devoicing of stops or obstruents word-finally
+		- Both word-finally and syllable-finally for Germna, eg.
+
+		Intervocalic voicing
+		- vocing sounds between vowels
+		- stops in some languages, fricatives in others, all obstruents in others
+
+		Nasal Assimilation
+		- np > mp, mt > nt, nk > [ng]k
+
+		Palatalisation
+		- before or after i or j or before other front vowels depending on language
+		- two kinds of changes
+		-- velar/alveolar --> palato-alveolar
+		-- consonant takes palatalisation as a secondary manner of articulation
+
+		Diphthongisation
+		- single vowel > sequence of two vowel segments occupying nucleus of single syllable
+
+		Monophthongisation
+		- Dipthong > Monophtg=hong
+
+		Vowel Raising
+		- low vowels > mid or high vowels
+		- in particular, long or tense vowels frequently rise
+		- can involve wholesale changes, see the Great Vowel Shift
+
+		Vowel Lowering
+		- high > mid or low, mid > low
+		- Nasalised vowels lowered very frequently
+		- vowels are often lowered before uvular and pharyngeal consonants
+
+		Nasalisation
+		- vowels become nasalised in environment of nasal consonants
+
+		Lenition (weakening)
+		- loose notion
+		- somehow weaker articulation
+		- examples: stops/affricates > fricatives
+			full consonants > glides
+			voiceless consonants > voiced
+
+		Strengthening
+		- somehow stronger
+
+		Gemination
+		- doubling of consonats
+
+		Degemination
+		- sequence of identical consonants is reduced to single occurence
+
+		Affrication
+		- stop/fricative > affricate
+
+		Spirantisation (fricativisation)
+		- stop/affricate > fricative
+
+		Deaffrication
+		- affricare > fricative
+		- not uncommon change
+
+		Lengthening
+		- sound lengthening in some context
+		- usuallt vowel
+
+		Shortening
+		- shortening of sounds in some contexts
+
+	Relative Chronology:
 
 
- Grimm's Law:
-	Voiced Aspirated Stops --> Voiced Stops --> Voiceless Stops --> Voiceless Fricatives
-	For Germanic Languages from PIE
+	Chain shifts:
+	 - Push chains
+	 - Pull chains
+	 - Examples:
+		Grimm's Law:
+		- Voiced Aspirated Stops --> Voiced Stops --> Voiceless Stops --> Voiceless Fricatives
+		  For Germanic Languages from PIE
+		  
+		The Great Vowel Shift:
+ 		- Best known Chain Shift
+		  long vowels systematically raised, highest long vowels diphtongised
+	 		- a --> ae --> 3 --> e --> i --> (ui --> )ai
+	 		- aww --> o --> u --> (auw --> )au
 
 
- The Great Vowel Shift:
- 	Best known Chain Shift
-	long vowels systematically raised, highest long vowels diphtongised
-	 
-	 - a --> ae --> 3 --> e --> i --> (ui --> )ai
-	 - aww --> o --> u --> (auw --> )au
+Borrowing:
+- Loanword - lexical ite not originally part of the vocabulary of the recipient language
+
+- Why do languages borrow from one another
+	Need
+	- New concept from abroad, need a new concept
+	- Eg: coca cola,, automobile
+
+	Prestige
+	- Luxury loans
+	- Eg: English - pork (french: porc), beef (french: boeuf), cuisine (french: cuisine)
+	
+	Derogatory
+	- Rare
+	- eg: hashashin --> assassin
+
+- How do words get borrowed
+	Get remodelled to fit phonological and morphological structure of the borrowing language
+	Sound changes
+	> adaptation or phoneme substitution
+	
+	Phonological pattern modification
+	> accommoddation
+
+	Direct phonological diffusion
+
+- Identifying loanwords and direction of borrowing
+	Phonological Clues
+
+	Morphological Complexity
+
+	Clues from cognates
+
+	Geographical and Ecological Clues
+
+	Other semantic clues
+
+- Loand
+
+
+Analogical Change
+- What is it
+	Analogical change involves a relation of similarity
+
+	Neogrammarians - Sound change is regular, borrowings need to be identified, and analogy is 
+	everything left over
+
+- Types of Analogical Change
+	
+	Proportional Analogy
+
+	Analogical Levelling
+
+	Analogical Extension
+
+- Relation between Analogy and Sound Change
+
+- Analogical Models
+
+- Other kinds of Analogy
+	
+	Hypercorrection
+
+	Folk etymology
+
+	Backformation
+
+	Metanalysis
+
+	Blending
+
+Comparative Method:
+
+- Steps
+	1. Assemble cognates
+	2. Establish sound correspondences
+	3. Reconstruct the proto-sound
+	   - Directionality
+	   - Majority wins
+	   - Factoring in features held in common
+	   - Economy
+	4. Determine the status of similar (partially overlapping) sets
+	5. Check the plausibility from perspective of overall phonological inventory of proto
+	6. Check plausibility of reconstructed sound from perspective of linguistic universals, typological expectations
+	7. Reconstruct individual morphemes
+
+- Indo-European and the Regularity of Sound Change
+	Grimm's Law
+
+	Grassman's Law
+
+	Verner's Law
+
+- Basic Assumptions of the Comparative Method
+	Proto language was uniform, with no dialect or social variation
+
+	Language splits are sudden
+	
+	After split of proto language, there is no subsequent contact among related languages
+
+	Sound change is regular
+
+
+Semantic and Lexical Change
+- Traditional COnsiderations:
+	Widening
+
+	Narrowing
+
+	Metaphor
+
+	Metonymy
+
+	Synecdoche
+
+	Degeneration
+
+	Elevation (amelioration)
+
+	Taboo replacement and avoidance of obscenity
+
+	Hyperbole
+
+	Litotes
+
+	Semantic shift due to contact
+
+- Attempts to explain
+
+- Other kinds of Lexical changes - new words
+	
+	Creations from nothing (root creations)
+
+	From personal names
+
+	From place names
+
+	From brand (trade) names
+
+	Acronyms
+
+	Compounding
+
+	Other what
+
+	Amalgamation
+
+	Clipping
+
+	Expressive Creations
+
+	Obsolescence and loss of vocabulary
+
+
+
 
 
 Pre forms versus Proto forms:
