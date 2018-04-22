@@ -62,7 +62,7 @@ Sound Changes:
 		 - Eg: English spellings with /s/ after preceding voiced non sibilant becomes /z/   
 		 
 		Distant (non adjacent) 
-		 - 
+		 - Eg: PIE *penkwe --> kwenkwe 
 
 	 - Dissimilation
 	 	The opposite of assimilation - sounds become less similar to one another.
@@ -76,66 +76,90 @@ Sound Changes:
 		    
 		    Instances of multiple occurences of r in a word are sporadically dissimilated
 		    in Romance languages
+		    Eg: latin peregrinus --> Italian pellegrino
 
 		    Grassman's law - famous case of regular dissimilation in Greek and Sanskrit 
 		    where in roots with 2 aspirated stops, the first dissimilated to an 
-		    unanspirated stop
+		    unanspirated stop. Voiced aspirated stops in Sanskrit, Unvoiced in Greek.
+		    Eg: Sanskrit : bhabhuva --> babhuva
+		    	Greek : phephuka --> pephuka
+
+		    CONTACT DISSIMILATION:
 
 		    .
 		    .
 		    .
 
-		    Dahl's Law in Bantu
+		    Dahl's Law in Bantu (stem initial voicless obstruents became voiced in 
+		    CVC form where the second consonant was voiceless)
 
 	Kinds of Common Changes:
 	 - Deletions:
 		Syncope (atata --> atta) 
 		- neither initial nor final
 		- normally for loss of vowels
+		Eg: family --> famly
+		    memory --> memry
 
 		Apocope (tata --> tat)
 		- At end
 		- usually vowels
+		Eg: Final e in Latin regularly deleted in Spanish in VC_# if consonant dental
+		    pane --> pan
+		    sole --> sol
+
+		    English
+		    sticca --> stick
+		    sunu --> son
 
 		Apheresis (atata --> tata)
 	 	- At beginning
 		- usually vowel
 		- can be regular or sporadic
 		- rarely used, people sat initial vowel loss
+		Eg: Spanish: ahora --> hora (sporadic), apoteca --> bodega (regular)
 
 	 - Epenthesis (Insertions): (asta --> asata)
 		Prothesis (tata --> atata)
 		- At beginning 
+		Eg: Latin: scutu --> iskutu
+			   scika --> iskola
+
+		    Bengali: school (english) --> ischool
 		
 		Anaptyctic (VCCV --> VCVCV)
 		- extra vowel added between two consonants
+		Eg: (sporadic) film --> filam, athlete --> athelete
 
 		Excrescence (amra --> ambra, anra --> andra, ansa --> antsa)
 		- Consonant being inserted between other consonants
 		- Usually results in phonetic sequences which are easier to pronounce than the
 		  original clusters would be
+		Eg: thimel --> thimble, chimney --> chimbley
 		
 		Paragoge (tat --> tata)
 		- At end of word
 		- Usually vowel
+		Eg: (sporadic, Spanish dialects) red --> rede, huesped --> huespede
 
 	 - Compulsory Lengthening: (tast --> ta:t)
 	 	Something is lost and another segment, usually vowel, is lengthened
+		Eg: tonth --> tooth, finf --> fi:f (five)
 
 	 - Rhotacism (VsV --> VrV)
-	 	Change of s/z --> r
-
-		Usually between vowels or glides
-
-		Some assume change is in form s --> z --> r
+	 	- Change of s/z --> r
+		- Usually between vowels or glides
+		- Some assume change is in form s --> z --> r
+		Eg: Latin, s > r. honos, honori, honoris
 
 	 - Metathesis (asta --> atsa, asata --> atasa)
-	 	Transposition of sounds
-
-		Mostly sporadic
+	 	-Transposition of sounds
+		-Mostly sporadic
+		Eg: brid --> bird, hros --> horse (english)
 
 	 - Haplology (tatasa --> tasa)
 	 	repeated sequence of sounds reduced to single
+		Eg: library --> libry, probably --> probly
 
 	 - Breaking
 	 	Diphtongisation of short vowel in particular contexts
@@ -248,9 +272,13 @@ Borrowing:
 	Get remodelled to fit phonological and morphological structure of the borrowing language
 	Sound changes
 	> adaptation or phoneme substitution
+	Eg: Finnish had no voiced stops b, d, g. p, t, k replaced as closest counterparts. 
+	    parta 'beard', kaase 'gas'
 	
 	Phonological pattern modification
 	> accommoddation
+	Eg: Mayan languages do not allow initial consonant clusters, so we end up with
+	    (spanish) cruz --> rus (Chol)
 
 	Direct phonological diffusion
 
@@ -258,6 +286,7 @@ Borrowing:
 	Phonological Clues
 
 	Morphological Complexity
+	- usually the donor is more morphologicallt complex
 
 	Clues from cognates
 
@@ -275,37 +304,55 @@ Analogical Change
 	Neogrammarians - Sound change is regular, borrowings need to be identified, and analogy is 
 	everything left over
 
+	Eg: sorry and sorrow distinction to similarity
+
 - Types of Analogical Change
 	
 	Proportional Analogy
+	- a:b = c:x
+	Eg: drive:drove(drived) = write:wrote or strive:strove
 
 	Analogical Levelling
+	- reduces allomorphs
 
 	Analogical Extension
 
 - Relation between Analogy and Sound Change
+	Sturtevant's Paradox: Sound change is regular and causes irregularity,
+	analogical levelling is irregular and causes regularity
 
 - Analogical Models
+	Immediate vs otherwise
 
 - Other kinds of Analogy
 	
 	Hypercorrection
+	- Eg: pawnd, drownd (san/sand, fin/find)
 
 	Folk etymology
+	- Eg: Hamburger --> cheeseburger, burger, fishburger
 
 	Backformation
+	- type of folk etymology
+	Eg: cherry comes from cheris, but s was plural so cherry
 
 	Metanalysis
+	- Amalgamation, metanalysis proper (reanalysis)
+	Eg: a naeddre --> an adder
 
 	Blending
+	- Eg: smoke + fog --> smog
 
 Comparative Method:
+genetically related - we say that languages belonging to the same language family are genetically related
+to one another. In that, they descend from a single original language, called proto-language
 
 - Steps
 	1. Assemble cognates
 	2. Establish sound correspondences
 	3. Reconstruct the proto-sound
 	   - Directionality
+	     Eg: s > h happens but not so much h > s
 	   - Majority wins
 	   - Factoring in features held in common
 	   - Economy
@@ -328,30 +375,64 @@ Comparative Method:
 	
 	After split of proto language, there is no subsequent contact among related languages
 
-	Sound change is regular
+	Sound change is regularss
+
+	Example shortfall: reconstructing Proto Romance against latin - the latin mophological inflection
+	is more difficult to reconstruct
+
+Internal Reconstruction:
+
+- Steps:
+	1. Identify alternations
+	2. Postulate a single non alternating original form
+	3. Postulate the changes
+	4. Check the results to verify
+
+- Examples
+
+- Limitations
+	1. Cannot recover unconditioned changes
+	2. May be reliable if later changes have not eliminated the context(s) which condition it
+
+- Internal Reconstruction andd the COmparative method
+	Summary - anything is fine fuck this book and author
 
 
 Semantic and Lexical Change
 - Traditional COnsiderations:
 	Widening
+	- Eg: dog, salary
 
 	Narrowing
+	- Eg: hound, Meat
 
 	Metaphor
+	- Eg: bead from prayer, variations on drunk
 
 	Metonymy
+	- Inclusion of additional senses closely associated with concept
+	Eg: cheek
 
 	Synecdoche
+	- Kind of metonymy
+	- More comprehensive refers to less or vice versa
+	Eg: tongue --> language
 
 	Degeneration
+	- negativisation.
+	Eg: knave, spinster, mistress, silly
 
 	Elevation (amelioration)
+	- Eg: pretty, fond
 
 	Taboo replacement and avoidance of obscenity
+	- Eg: donkey from ass
 
 	Hyperbole
+	- Eg: using terribly, horribly, etx
 
-	Litotes
+	Litotes (understatement)
+	- Eg: bereft
 
 	Semantic shift due to contact
 
@@ -360,24 +441,33 @@ Semantic and Lexical Change
 - Other kinds of Lexical changes - new words
 	
 	Creations from nothing (root creations)
+	- Eg: blurb, gas
 
 	From personal names
+	- Eg: guillotine, sandwich
 
 	From place names
+	- Eg: canary, denim
 
 	From brand (trade) names
+	- Eg: coke
 
 	Acronyms
+	- Eg: BS, CD
 
 	Compounding
+	- Eg: all-nighter
 
 	Other what
 
 	Amalgamation
+	- Eg: all one --> alone
 
 	Clipping
+	- Eg: bicycle --> bike
 
 	Expressive Creations
+	- onomatopoeia. Eg: buzz
 
 	Obsolescence and loss of vocabulary
 
